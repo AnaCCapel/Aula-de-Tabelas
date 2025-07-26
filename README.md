@@ -12,6 +12,7 @@
 - git add nome-do-arquivo;
 - git commit -m;
 - git push -u origin main;
+- git push.
   
 2. Praticar o uso das tags de tabela simples com HTML e estilizar suas bordas.
    
