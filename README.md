@@ -20,3 +20,5 @@
 - HTML5;
 - CSS3 interno;
 - Git Bash.
+
+<p align="center">Feito com 💜 por  Ana C. Capel</p>
